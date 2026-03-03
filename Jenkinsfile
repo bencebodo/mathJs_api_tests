@@ -25,7 +25,7 @@ pipeline {
         stage('API tests') {
             steps {
                 script{
-                    updateGitHubStatus('ci/jenkins/ui-tests', 'API tests started...', 'PENDING')
+                    updateGitHubStatus('ci/jenkins/api-tests', 'API tests started...', 'PENDING')
                 }
 
                 catchError(buildResult: 'FAILURE', stageResult: 'FAILURE') {
@@ -34,9 +34,9 @@ pipeline {
 
                 script {
                     if (currentBuild.result == 'FAILURE') {
-                        updateGitHubStatus('ci/jenkins/ui-tests', 'API tests failed!', 'FAILURE')
+                        updateGitHubStatus('ci/jenkins/api-tests', 'API tests failed!', 'FAILURE')
                     } else {
-                        updateGitHubStatus('ci/jenkins/ui-tests', 'API tests passed!', 'SUCCESS')
+                        updateGitHubStatus('ci/jenkins/api-tests', 'API tests passed!', 'SUCCESS')
                     }
                 }
             }
