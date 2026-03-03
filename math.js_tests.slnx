@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="math.js_tests/math.js_tests.csproj" />
+  <Project Path="mathJS_Service/mathJS_Service.csproj" Id="c3e36461-c5cc-428e-aba4-d7018340ce72" />
+</Solution>
