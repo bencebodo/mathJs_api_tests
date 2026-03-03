@@ -25,7 +25,7 @@ pipeline {
         stage('API tests') {
             steps {
                 catchError(buildResult: 'FAILURE', stageResult: 'FAILURE') {
-                    sh 'dotnet test MathJS_Tests/math.js_tests.csproj --configuration Release'
+                    sh 'dotnet test math.js_tests/math.js_tests.csproj --configuration Release'
                 }
             }
         }
