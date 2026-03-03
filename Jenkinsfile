@@ -24,8 +24,20 @@ pipeline {
 
         stage('API tests') {
             steps {
+                script{
+                    updateGitHubStatus('ci/jenkins/ui-tests', 'API tests started...', 'PENDING')
+                }
+
                 catchError(buildResult: 'FAILURE', stageResult: 'FAILURE') {
                     sh 'dotnet test math.js_tests/math.js_tests.csproj --configuration Release'
+                }
+
+                script {
+                    if (currentBuild.result == 'FAILURE') {
+                        updateGitHubStatus('ci/jenkins/ui-tests', 'API tests failed!', 'FAILURE')
+                    } else {
+                        updateGitHubStatus('ci/jenkins/ui-tests', 'API tests passed!', 'SUCCESS')
+                    }
                 }
             }
         }
