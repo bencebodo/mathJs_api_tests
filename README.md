@@ -20,7 +20,7 @@ The framework applies extensive Data-Driven Testing (DDT) to evaluate the API ag
   * Validating correct HTTP Status Codes (e.g., `400 Bad Request`) and error messages.
 * **Payload & Encoding Validation:** Ensuring complex math symbols (like `+`, `/`) are correctly URL-encoded in GET requests, and accurately structured in POST JSON bodies.
 
-## 🛠️ Technology Stack
+## Technology Stack
 * **Language:** C# 12 / .NET 8
 * **HTTP Client:** RestSharp (For constructing and executing REST API requests)
 * **Test Runner & Assertions:** NUnit
@@ -42,3 +42,16 @@ The framework applies extensive Data-Driven Testing (DDT) to evaluate the API ag
    ```bash
    git clone [https://github.com/yourusername/MathJS-API-Tests.git](https://github.com/yourusername/MathJS-API-Tests.git)
    cd MathJS-API-Tests
+   
+2. Restore NuGet packages
+   ```bash
+   dotnet restore
+
+3. Run all API tests
+   ```bash
+   dotnet test --configuration Release
+
+
+Developer
+
+Bence Bodo - QA Automation Engineer
