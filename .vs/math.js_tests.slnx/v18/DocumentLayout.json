@@ -1,66 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\",
+  "WorkspaceRootPath": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{260A1899-D171-5A92-4513-D08539D34803}|math.js_tests\\math.js_tests.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\math.js_tests\\math.js_tests\\test\\base\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{260A1899-D171-5A92-4513-D08539D34803}|math.js_tests\\math.js_tests.csproj|solutionrelative:math.js_tests\\test\\base\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{260A1899-D171-5A92-4513-D08539D34803}|math.js_tests\\MathJs.Tests.csproj|c:\\users\\bodob\\source\\repos\\mathjs_api_tests\\math.js_tests\\mathjs.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{260A1899-D171-5A92-4513-D08539D34803}|math.js_tests\\MathJs.Tests.csproj|solutionrelative:math.js_tests\\mathjs.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\math.js_tests\\mathjs_service\\service\\mathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|solutionrelative:mathjs_service\\service\\mathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{260A1899-D171-5A92-4513-D08539D34803}|math.js_tests\\Math.js.Tests.csproj|c:\\users\\bodob\\source\\repos\\mathjs_api_tests\\math.js_tests\\support\\testdependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260A1899-D171-5A92-4513-D08539D34803}|math.js_tests\\Math.js.Tests.csproj|solutionrelative:math.js_tests\\support\\testdependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{260A1899-D171-5A92-4513-D08539D34803}|math.js_tests\\math.js_tests.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\math.js_tests\\math.js_tests\\test\\mathjstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{260A1899-D171-5A92-4513-D08539D34803}|math.js_tests\\math.js_tests.csproj|c:\\users\\bodob\\source\\repos\\mathjs_api_tests\\math.js_tests\\test\\mathjstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{260A1899-D171-5A92-4513-D08539D34803}|math.js_tests\\math.js_tests.csproj|solutionrelative:math.js_tests\\test\\mathjstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{260A1899-D171-5A92-4513-D08539D34803}|math.js_tests\\math.js_tests.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\math.js_tests\\math.js_tests\\dependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{260A1899-D171-5A92-4513-D08539D34803}|math.js_tests\\math.js_tests.csproj|solutionrelative:math.js_tests\\dependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|c:\\users\\bodob\\source\\repos\\mathjs_api_tests\\mathjs_service\\service\\mathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|solutionrelative:mathjs_service\\service\\mathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\math.js_tests\\mathjs_service\\enum\\operationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|solutionrelative:mathjs_service\\enum\\operationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\math.js_tests\\mathjs_service\\operations\\subtraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|c:\\users\\bodob\\source\\repos\\mathjs_api_tests\\mathjs_service\\operations\\subtraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|solutionrelative:mathjs_service\\operations\\subtraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\math.js_tests\\mathjs_service\\interfaces\\imathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|solutionrelative:mathjs_service\\interfaces\\imathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\math.js_tests\\mathjs_service\\models\\mathoperationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|solutionrelative:mathjs_service\\models\\mathoperationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\math.js_tests\\mathjs_service\\operations\\squareroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|c:\\users\\bodob\\source\\repos\\mathjs_api_tests\\mathjs_service\\operations\\squareroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|solutionrelative:mathjs_service\\operations\\squareroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\math.js_tests\\mathjs_service\\operations\\multiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|c:\\users\\bodob\\source\\repos\\mathjs_api_tests\\mathjs_service\\operations\\multiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|solutionrelative:mathjs_service\\operations\\multiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\math.js_tests\\mathjs_service\\operations\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|c:\\users\\bodob\\source\\repos\\mathjs_api_tests\\mathjs_service\\operations\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|solutionrelative:mathjs_service\\operations\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\math.js_tests\\mathjs_service\\operations\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|c:\\users\\bodob\\source\\repos\\mathjs_api_tests\\mathjs_service\\operations\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|solutionrelative:mathjs_service\\operations\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\math.js_tests\\mathjs_service\\client\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{260A1899-D171-5A92-4513-D08539D34803}|math.js_tests\\math.js_tests.csproj|c:\\users\\bodob\\source\\repos\\mathjs_api_tests\\math.js_tests\\test\\base\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260A1899-D171-5A92-4513-D08539D34803}|math.js_tests\\math.js_tests.csproj|solutionrelative:math.js_tests\\test\\base\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1667DF31-0EA9-47DF-A571-51B6E4226EED}|Math.js.Core\\MathJs.Core.csproj|c:\\users\\bodob\\source\\repos\\mathjs_api_tests\\math.js.core\\interfaces\\imathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1667DF31-0EA9-47DF-A571-51B6E4226EED}|Math.js.Core\\MathJs.Core.csproj|solutionrelative:math.js.core\\interfaces\\imathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1667DF31-0EA9-47DF-A571-51B6E4226EED}|Math.js.Core\\MathJs.Core.csproj|c:\\users\\bodob\\source\\repos\\mathjs_api_tests\\math.js.core\\interfaces\\imathoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1667DF31-0EA9-47DF-A571-51B6E4226EED}|Math.js.Core\\MathJs.Core.csproj|solutionrelative:math.js.core\\interfaces\\imathoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\MathJs.Infrastructure.csproj|c:\\users\\bodob\\source\\repos\\mathjs_api_tests\\mathjs_service\\operations\\base\\baseoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\MathJs.Infrastructure.csproj|solutionrelative:mathjs_service\\operations\\base\\baseoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|c:\\users\\bodob\\source\\repos\\mathjs_api_tests\\mathjs_service\\client\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|solutionrelative:mathjs_service\\client\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\math.js_tests\\mathjs_service\\client\\config\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|c:\\users\\bodob\\source\\repos\\mathjs_api_tests\\mathjs_service\\client\\config\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|solutionrelative:mathjs_service\\client\\config\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\math.js_tests\\mathjs_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3E36461-C5CC-428E-ABA4-D7018340CE72}|mathJS_Service\\mathJS_Service.csproj|solutionrelative:mathjs_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1667DF31-0EA9-47DF-A571-51B6E4226EED}|Math.js.Core\\MathJs.Core.csproj|c:\\users\\bodob\\source\\repos\\mathjs_api_tests\\math.js.core\\models\\mathoperationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1667DF31-0EA9-47DF-A571-51B6E4226EED}|Math.js.Core\\MathJs.Core.csproj|solutionrelative:math.js.core\\models\\mathoperationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1667DF31-0EA9-47DF-A571-51B6E4226EED}|Math.js.Core\\MathJs.Core.csproj|c:\\users\\bodob\\source\\repos\\mathjs_api_tests\\math.js.core\\interfaces\\iapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1667DF31-0EA9-47DF-A571-51B6E4226EED}|Math.js.Core\\MathJs.Core.csproj|solutionrelative:math.js.core\\interfaces\\iapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1667DF31-0EA9-47DF-A571-51B6E4226EED}|Math.js.Core\\MathJs.Core.csproj|c:\\users\\bodob\\source\\repos\\mathjs_api_tests\\math.js.core\\enum\\operationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1667DF31-0EA9-47DF-A571-51B6E4226EED}|Math.js.Core\\MathJs.Core.csproj|solutionrelative:math.js.core\\enum\\operationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,34 +85,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IMathService.cs",
-              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Interfaces\\IMathService.cs",
-              "RelativeDocumentMoniker": "mathJS_Service\\Interfaces\\IMathService.cs",
-              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Interfaces\\IMathService.cs",
-              "RelativeToolTip": "mathJS_Service\\Interfaces\\IMathService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Subtraction.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\mathJS_Service\\Operations\\Subtraction.cs",
+              "RelativeDocumentMoniker": "mathJS_Service\\Operations\\Subtraction.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\mathJS_Service\\Operations\\Subtraction.cs",
+              "RelativeToolTip": "mathJS_Service\\Operations\\Subtraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T20:53:46.748Z",
+              "WhenOpened": "2026-03-03T19:50:08.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MathService.cs",
-              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Service\\MathService.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\mathJS_Service\\Service\\MathService.cs",
               "RelativeDocumentMoniker": "mathJS_Service\\Service\\MathService.cs",
-              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Service\\MathService.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\mathJS_Service\\Service\\MathService.cs",
               "RelativeToolTip": "mathJS_Service\\Service\\MathService.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAmwHMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T19:50:14.331Z",
               "EditorCaption": ""
@@ -106,174 +137,218 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MathJSTests.cs",
-              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\math.js_tests\\Test\\MathJSTests.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\math.js_tests\\Test\\MathJSTests.cs",
               "RelativeDocumentMoniker": "math.js_tests\\Test\\MathJSTests.cs",
-              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\math.js_tests\\Test\\MathJSTests.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\math.js_tests\\Test\\MathJSTests.cs",
               "RelativeToolTip": "math.js_tests\\Test\\MathJSTests.cs",
-              "ViewState": "AgIAAFYBAAAAAAAAAAAiwGoBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgBAAAAAAAAAAAuwA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-01T16:36:31.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Subtraction.cs",
-              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Operations\\Subtraction.cs",
-              "RelativeDocumentMoniker": "mathJS_Service\\Operations\\Subtraction.cs",
-              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Operations\\Subtraction.cs",
-              "RelativeToolTip": "mathJS_Service\\Operations\\Subtraction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T19:50:08.635Z",
+              "DocumentIndex": 0,
+              "Title": "Math.js.Tests",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\math.js_tests\\MathJs.Tests.csproj",
+              "RelativeDocumentMoniker": "math.js_tests\\MathJs.Tests.csproj",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\math.js_tests\\MathJs.Tests.csproj",
+              "RelativeToolTip": "math.js_tests\\MathJs.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-05T14:11:27.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OperationType.cs",
-              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Enum\\OperationType.cs",
-              "RelativeDocumentMoniker": "mathJS_Service\\Enum\\OperationType.cs",
-              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Enum\\OperationType.cs",
-              "RelativeToolTip": "mathJS_Service\\Enum\\OperationType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T19:50:22.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dependencies.cs",
-              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\math.js_tests\\Dependencies.cs",
-              "RelativeDocumentMoniker": "math.js_tests\\Dependencies.cs",
-              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\math.js_tests\\Dependencies.cs",
-              "RelativeToolTip": "math.js_tests\\Dependencies.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "TestDependencies.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\math.js_tests\\Support\\TestDependencies.cs",
+              "RelativeDocumentMoniker": "math.js_tests\\Support\\TestDependencies.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\math.js_tests\\Support\\TestDependencies.cs",
+              "RelativeToolTip": "math.js_tests\\Support\\TestDependencies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T19:58:25.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BaseTest.cs",
-              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\math.js_tests\\Test\\Base\\BaseTest.cs",
-              "RelativeDocumentMoniker": "math.js_tests\\Test\\Base\\BaseTest.cs",
-              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\math.js_tests\\Test\\Base\\BaseTest.cs",
-              "RelativeToolTip": "math.js_tests\\Test\\Base\\BaseTest.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAcwB8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T20:08:59.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MathOperationResult.cs",
-              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Models\\MathOperationResult.cs",
-              "RelativeDocumentMoniker": "mathJS_Service\\Models\\MathOperationResult.cs",
-              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Models\\MathOperationResult.cs",
-              "RelativeToolTip": "mathJS_Service\\Models\\MathOperationResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T20:44:43.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Multiplication.cs",
-              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Operations\\Multiplication.cs",
-              "RelativeDocumentMoniker": "mathJS_Service\\Operations\\Multiplication.cs",
-              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Operations\\Multiplication.cs",
-              "RelativeToolTip": "mathJS_Service\\Operations\\Multiplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T19:49:57.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "SquareRoot.cs",
-              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Operations\\SquareRoot.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\mathJS_Service\\Operations\\SquareRoot.cs",
               "RelativeDocumentMoniker": "mathJS_Service\\Operations\\SquareRoot.cs",
-              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Operations\\SquareRoot.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\mathJS_Service\\Operations\\SquareRoot.cs",
               "RelativeToolTip": "mathJS_Service\\Operations\\SquareRoot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T19:50:02.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
+              "Title": "Multiplication.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\mathJS_Service\\Operations\\Multiplication.cs",
+              "RelativeDocumentMoniker": "mathJS_Service\\Operations\\Multiplication.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\mathJS_Service\\Operations\\Multiplication.cs",
+              "RelativeToolTip": "mathJS_Service\\Operations\\Multiplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:49:57.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Division.cs",
-              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Operations\\Division.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\mathJS_Service\\Operations\\Division.cs",
               "RelativeDocumentMoniker": "mathJS_Service\\Operations\\Division.cs",
-              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Operations\\Division.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\mathJS_Service\\Operations\\Division.cs",
               "RelativeToolTip": "mathJS_Service\\Operations\\Division.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T19:49:50.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "Addition.cs",
-              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Operations\\Addition.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\mathJS_Service\\Operations\\Addition.cs",
               "RelativeDocumentMoniker": "mathJS_Service\\Operations\\Addition.cs",
-              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Operations\\Addition.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\mathJS_Service\\Operations\\Addition.cs",
               "RelativeToolTip": "mathJS_Service\\Operations\\Addition.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T20:01:37.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\math.js_tests\\Test\\Base\\BaseTest.cs",
+              "RelativeDocumentMoniker": "math.js_tests\\Test\\Base\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\math.js_tests\\Test\\Base\\BaseTest.cs",
+              "RelativeToolTip": "math.js_tests\\Test\\Base\\BaseTest.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T20:08:59.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMathService.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\Math.js.Core\\Interfaces\\IMathService.cs",
+              "RelativeDocumentMoniker": "Math.js.Core\\Interfaces\\IMathService.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\Math.js.Core\\Interfaces\\IMathService.cs",
+              "RelativeToolTip": "Math.js.Core\\Interfaces\\IMathService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:13:54.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMathOperation.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\Math.js.Core\\Interfaces\\IMathOperation.cs",
+              "RelativeDocumentMoniker": "Math.js.Core\\Interfaces\\IMathOperation.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\Math.js.Core\\Interfaces\\IMathOperation.cs",
+              "RelativeToolTip": "Math.js.Core\\Interfaces\\IMathOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:13:47.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "BaseOperation.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\mathJS_Service\\Operations\\Base\\BaseOperation.cs",
+              "RelativeDocumentMoniker": "mathJS_Service\\Operations\\Base\\BaseOperation.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\mathJS_Service\\Operations\\Base\\BaseOperation.cs",
+              "RelativeToolTip": "mathJS_Service\\Operations\\Base\\BaseOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:15:57.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ApiClient.cs",
-              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Client\\ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\mathJS_Service\\Client\\ApiClient.cs",
               "RelativeDocumentMoniker": "mathJS_Service\\Client\\ApiClient.cs",
-              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Client\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\mathJS_Service\\Client\\ApiClient.cs",
               "RelativeToolTip": "mathJS_Service\\Client\\ApiClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T19:50:47.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ApiConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Client\\Config\\ApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\mathJS_Service\\Client\\Config\\ApiConfig.cs",
               "RelativeDocumentMoniker": "mathJS_Service\\Client\\Config\\ApiConfig.cs",
-              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Client\\Config\\ApiConfig.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\mathJS_Service\\Client\\Config\\ApiConfig.cs",
               "RelativeToolTip": "mathJS_Service\\Client\\Config\\ApiConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T19:50:53.818Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MathOperationResult.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\Math.js.Core\\Models\\MathOperationResult.cs",
+              "RelativeDocumentMoniker": "Math.js.Core\\Models\\MathOperationResult.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\Math.js.Core\\Models\\MathOperationResult.cs",
+              "RelativeToolTip": "Math.js.Core\\Models\\MathOperationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:14:05.046Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
+              "Title": "IApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\Math.js.Core\\Interfaces\\IApiClient.cs",
+              "RelativeDocumentMoniker": "Math.js.Core\\Interfaces\\IApiClient.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\Math.js.Core\\Interfaces\\IApiClient.cs",
+              "RelativeToolTip": "Math.js.Core\\Interfaces\\IApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:13:28.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OperationType.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\Math.js.Core\\Enum\\OperationType.cs",
+              "RelativeDocumentMoniker": "Math.js.Core\\Enum\\OperationType.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\mathJs_api_tests\\Math.js.Core\\Enum\\OperationType.cs",
+              "RelativeToolTip": "Math.js.Core\\Enum\\OperationType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:13:06.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Program.cs",
-              "RelativeDocumentMoniker": "mathJS_Service\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Program.cs",
               "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Program.cs",
-              "RelativeToolTip": "mathJS_Service\\Program.cs",
+              "RelativeToolTip": "..\\PORTFOLIO\\math.js_tests\\mathJS_Service\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-01T16:35:58.57Z",
