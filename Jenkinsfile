@@ -29,7 +29,7 @@ pipeline {
                 }
 
                 catchError(buildResult: 'FAILURE', stageResult: 'FAILURE') {
-                    sh 'dotnet test math.js_tests/math.js_tests.csproj --configuration Release'
+                    sh 'dotnet test MathJs.Tests/MathJs.Tests.csproj --configuration Release'
                 }
 
                 script {
